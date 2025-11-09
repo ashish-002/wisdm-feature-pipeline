@@ -1,6 +1,6 @@
 # WISDM Sensor Data Feature Extraction Pipeline
 
-## 📌 Overview
+# Overview
 
 This repository contains a Python pipeline for preprocessing and feature extraction from the [WISDM Human Activity Recognition Dataset](httpswww.cis.fordham.eduwisdmdataset.php).  
 The pipeline is modular, reproducible, and designed as Phase 1 of a larger multimodal project involving sensor and video data.  
@@ -9,7 +9,7 @@ It prepares sensor features for downstream machine learning or deep learning tas
 
 ---
 
-## 🧩 Features
+# Features
 
 - Load and clean raw accelerometer data from WISDM
 - Segment continuous sensor data into overlapping windows
@@ -20,7 +20,7 @@ It prepares sensor features for downstream machine learning or deep learning tas
 
 ---
 
-## ⚡ Future Work  Extensions
+# Future Work  Extensions
 
 The pipeline is designed to easily integrate the following
 
@@ -38,7 +38,7 @@ The pipeline is designed to easily integrate the following
 
 ---
 
-## 🛠 Installation
+# Installation
 
 ### Requirements
 
